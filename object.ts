@@ -9,4 +9,11 @@ const printName = (person: {firstName: string, lastName: string}) {
     
 }
 
-printName({firstName: 'Muhammad', lastName: 'Auwal'})
+printName({firstName: 'Muhammad', lastName: 'Auwal'})  
+
+const houseKeeper1 = (housekeeper: {hname, age, yearsOfExperience, fullname}) {
+    hname = "Mary",
+    age = 30,
+    yearsOfExperience = 5
+    fullAddress = "Kaduna - Nigeria"
+}
