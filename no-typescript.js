@@ -22,7 +22,7 @@ function houseKeeper (name, age, hasWorkPermit, languages) {
     this.languages = languages;
 }
 
-var houseKeeper1 = new houseKeeper ("Abdul", 20, true, ["Hausa", "Igbo", "Yoruba", "English"])
+// var houseKeeper1 = new houseKeeper ("Abdul", 20, true, ["Hausa", "Igbo", "Yoruba", "English"])
 
 console.log(houseKeeper);
 
